@@ -1,0 +1,13 @@
+{
+  "name": "peccala-test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.1.0",
+    "dotenv": "^16.0.2"
+  }
+}
