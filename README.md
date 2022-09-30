@@ -18,7 +18,7 @@
 
    ```
 
-3. To run project
+3. Run the project
 
    ```sh
    yarn start
